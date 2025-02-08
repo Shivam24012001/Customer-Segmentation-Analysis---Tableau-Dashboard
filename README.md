@@ -50,11 +50,11 @@ Designed an **interactive dashboard** showcasing:
 📋 **Excel / Google Sheets** – Data Cleaning & Preprocessing  
 
 ## **How to Use**  
-1. Open the Tableau dashboard (**link below if published on Tableau Public**)  
+1. Open the Tableau dashboard (**[link below if published on Tableau Public](https://public.tableau.com/views/AR5Task9/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**)  
 2. Use filters and segments to explore customer groups  
 3. Analyze insights and make data-driven decisions  
 
-📌 **Tableau Dashboard Link:** [Insert Link]  
+📌 **Tableau Dashboard Link:** [https://public.tableau.com/views/AR5Task9/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]  
 
 ## **Repository Structure**  
 
